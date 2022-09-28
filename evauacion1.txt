@@ -1,0 +1,16 @@
+instalacion de SQL 
+     imagenes de la instalacion(pasos)
+
+informe sobre las versiones de sql   
+    developers
+    express
+    enterprise
+    standard	
+
+tipo de licenciamiento
+requirimientos de hardware 
+limites de funcionalidad 
+principales usos 
+
+
+	 
